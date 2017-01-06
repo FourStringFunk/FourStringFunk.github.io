@@ -4,28 +4,12 @@
 
 /* ----- Formatting for the page header, body and footer boxes ----- */
 
-html {
-	width: 90%
-	margin: 0 auto;
-}
-
 .main-navigation {
-	height: 75px;
-	background-color: #1e1e1e;
-	color: #faf4f4;
-	padding-top: 20px;
+	border: 1px solid black;
 }
 
-#nav-options ul li {
-	list-style-type: none;
-	display: inline;
-	font-size: 18px;
-	padding: 5px 20px 5px 20px;
-}
-	
-.footer {
-	background-color: #1e1e1e;
-	color: #faf4f4;
+.main-image {
+	border: 1px solid black;
 }
 
 /* ----- Formatting for Main Landing Page ----- */
