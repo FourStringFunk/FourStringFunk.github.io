@@ -4,10 +4,14 @@
 
 /* ----- Formatting for the page header, body and footer boxes ----- */
 
+* {
+	box-sizing: border-box;
+}
+
 .main-navigation {
 	border: 1px solid black;
 	float: left;
-	width: 10%;
+	width: 25%;
 	height: 100%;
 }
 
@@ -15,7 +19,8 @@
 	border-top: 1px solid black;
 	border-right: 1px solid black;
 	border-bottom: 1px solid black;
-	margin-left: 10%;
+	float: left;
+	width: 75%
 	height: 100%
 }
 
