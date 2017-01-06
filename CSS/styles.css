@@ -2,13 +2,6 @@
 	Styles for the entire website, listed out by page and type.
 */
 
-/* ----- Styling across the site ----- */
-
-/* a,a:hover,a:visited,a:link,a:active {
-	text-decoration: none;
-	color: #faf4f4;
-} */
-
 /* ----- Formatting for Main Navigation ----- */
 
 .main-navigation {
@@ -41,6 +34,10 @@
 #nav-options ul li a {
 	text-decoration: none;
 	color: #faf4f4;
+}
+
+#nav-options ul li a:hover {
+	color: #4b4c4d;
 }
 
 /* ----- Formatting for Main Landing Page Image----- */
