@@ -32,7 +32,11 @@
 	font-size: 20px;
 }
 
+<<<<<<< HEAD
 .nav-link {
+=======
+#nav-options ul li a {
+>>>>>>> origin/master
 	text-decoration: none;
 	color: #faf4f4;
 }
