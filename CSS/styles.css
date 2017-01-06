@@ -12,6 +12,10 @@
 	color: #faf4f4;
 }
 
+.clearfix {
+	overflow: auto;
+}
+
 #nav-options ul {
 	list-style-position: none;
 	padding-left: 0;
