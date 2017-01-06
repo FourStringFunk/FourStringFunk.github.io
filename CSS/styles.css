@@ -15,3 +15,10 @@ html {
 	color: #faf4f4;
 	padding-top: 5px;
 }
+
+/* ----- Formatting for Main Landing Page ----- */
+
+.main-body-image {
+	width: 100%;
+	height: auto;
+}
