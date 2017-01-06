@@ -4,6 +4,10 @@
 
 /* ----- Formatting for Main Navigation ----- */
 
+main {
+	height: 100%;
+}
+
 .main-navigation {
 	float: left;
 	width: 15%;
