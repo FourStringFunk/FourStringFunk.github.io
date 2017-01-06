@@ -6,10 +6,14 @@
 
 .main-navigation {
 	border: 1px solid black;
+	float: left;
+	width: 10%;
+	height: 100%;
 }
 
 .main-image {
 	border: 1px solid black;
+	margin-left: 10%;
 }
 
 .footer {
