@@ -12,12 +12,11 @@
 }
 
 .main-image {
-	border: 1px solid black;
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
 	margin-left: 10%;
-}
-
-.footer {
-	border: 1px solid black;
+	height: 100%
 }
 
 /* ----- Formatting for Main Landing Page ----- */
