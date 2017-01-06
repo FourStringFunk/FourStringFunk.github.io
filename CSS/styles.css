@@ -4,10 +4,10 @@
 
 /* ----- Styling across the site ----- */
 
-a,a:hover,a:visited,a:link,a:active {
+/* a,a:hover,a:visited,a:link,a:active {
 	text-decoration: none;
 	color: #faf4f4;
-}
+} */
 
 /* ----- Formatting for Main Navigation ----- */
 
@@ -36,6 +36,11 @@ a,a:hover,a:visited,a:link,a:active {
 	list-style-type: none;
 	padding: 0% 0% 5% 10%;
 	font-size: 20px;
+}
+
+#nav-options ul li a {
+	text-decoration: none;
+	color: #faf4f4;
 }
 
 /* ----- Formatting for Main Landing Page Image----- */
