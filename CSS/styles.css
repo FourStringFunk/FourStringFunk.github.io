@@ -13,13 +13,14 @@ html {
 	height: 75px;
 	background-color: #1e1e1e;
 	color: #faf4f4;
-	padding-top: 5px;
+	padding-top: 50%;
 }
 
 #nav-options ul li {
 	list-style-type: none;
 	display: inline;
 	font-size: 18px;
+	padding: 0px 20px 0px 20px;
 }
 	
 .footer {
