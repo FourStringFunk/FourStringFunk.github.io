@@ -33,8 +33,5 @@
 
 /* ----- Formatting for Main Landing Page Image----- */
  .img {
- 	width: auto;
- 	height: auto;
- 	max-width: 25%;
- 	max-height: 25%;
+ 	overflow: hidden;
  }
