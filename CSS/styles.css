@@ -32,4 +32,8 @@
 	font-size: 20px;
 }
 
+<#nav-options ul li a {
+	text-decoration: none;
+}
+
 /* ----- Formatting for Main Landing Page Image----- */
