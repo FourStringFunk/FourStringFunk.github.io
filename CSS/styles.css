@@ -18,7 +18,7 @@ html {
 
 /* ----- Formatting for Main Landing Page ----- */
 
-.main-body-image {
+#main-body-image {
 	width: 100%;
 	height: auto;
 }
