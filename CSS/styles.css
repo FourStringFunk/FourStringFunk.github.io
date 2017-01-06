@@ -32,7 +32,7 @@
 	font-size: 20px;
 }
 
-<#nav-options ul li a {
+#nav-options ul li a {
 	text-decoration: none;
 	color: #faf4f4;
 }
