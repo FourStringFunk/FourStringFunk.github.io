@@ -33,6 +33,6 @@
 
 /* ----- Formatting for Main Landing Page Image----- */
 
-.img {
+.main-image, .img {
 	width: 100%;
 }
