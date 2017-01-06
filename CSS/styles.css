@@ -12,8 +12,12 @@
 	color: #faf4f4;
 }
 
-.clearfix {
-	overflow: auto;
+.main-image {
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	margin-left: 15%;
+	height: 100%
 }
 
 #nav-options ul {
@@ -29,7 +33,6 @@
 
 /* ----- Formatting for Main Landing Page Image----- */
 
-.main-image {
-	width: 100%
-	border: 1px solid black;
+#image1 {
+	width: 100%;
 }
