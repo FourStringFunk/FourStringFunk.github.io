@@ -10,7 +10,7 @@ html {
 }
 
 .main-navigation {
-	height: 150px;
+	height: 75px;
 	background-color: #1e1e1e;
 	color: #faf4f4;
 	padding-top: 5px;
@@ -19,7 +19,6 @@ html {
 #nav-options ul li {
 	list-style-type: none;
 	display: inline;
-	padding: 40px 30px 20px 30px;
 	font-size: 18px;
 }
 	
