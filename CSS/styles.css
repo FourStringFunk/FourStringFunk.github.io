@@ -34,5 +34,5 @@
 /* ----- Formatting for Main Landing Page Image----- */
 
 #image1 {
-	width: 100%;
+	max-width: 100%;
 }
