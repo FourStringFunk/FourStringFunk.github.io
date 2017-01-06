@@ -18,6 +18,5 @@ html {
 /* ----- Formatting for Main Landing Page ----- */
 
 .main-body-image {
-	width: 500px;
-	height: auto;
+	max-width: 100%;
 }
