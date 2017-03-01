@@ -79,11 +79,12 @@ img {
 #Full_Gallery {
 	padding: 10px 0 10px 10px;
 	background-color: #1e1e1e;
+	overflow: hidden;
 }
 
 #Gallery_Button {
-	display: inline;
-	padding: 5px;
+	float: right;
+	padding: 10px;
 }
 
 @keyframes slidy {
