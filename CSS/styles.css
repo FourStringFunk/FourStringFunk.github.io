@@ -1,6 +1,11 @@
 html {
-	width: 90%;
+	width: 95%;
 	margin: 0 auto;
+}
+
+img {
+	max-height: 100%
+	max-width: 100%;
 }
 
 #Nav {
@@ -10,10 +15,6 @@ html {
 #Home {
 	border: 1px solid black;
 	margin-top: 5px;
-}
-
-#Home_Image {
-	max-width: 100%;
 }
 
 #Gallery {
