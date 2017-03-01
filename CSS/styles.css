@@ -1,7 +1,7 @@
 /* ----- Document Styling  ----- */
 
 html {
-	width: 95%;
+	width: 100%;
 	margin: 0 auto;
 }
 
@@ -61,7 +61,6 @@ li a:hover {
 
 #Gallery {
 	border: 1px solid black;
-	margin-top: 5px;
 	height: 100vh;
 }
 
