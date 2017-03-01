@@ -14,6 +14,15 @@ footer {
 	color: #faf4f4;
 }
 
+h1 {
+	margin: 0;
+	padding-left: 10px;
+}
+
+#Section_Title {
+	background-color: #d2d0d0;
+}
+
 /* -----  Navigation Styling  ----- */
 
 ul {
@@ -36,15 +45,6 @@ li a:hover {
 	background-color: #494848;
 }
 
-/* ----- Home Image Styling ----- */
-
-img {
-	max-width: 100%;
-	display: block;
-}
-
-/* ----- Section Styling  ----- */
-
 .Nav {
 	border: 1px solid black;
 	padding: 20px 20px 20px 20px;
@@ -52,15 +52,26 @@ img {
 	text-align: right;
 }
 
+/* ----- Home Image Styling ----- */
+
+img {
+	max-width: 100%;
+	display: block;
+}
+
 #Home {
 	border: 1px solid black;
 	margin-top: 5px;
 }
 
+/* ----- Gallery Section Styling  ----- */
+
 #Gallery {
 	border: 1px solid black;
 	margin-top: 5px;
 }
+
+/* ----- Contact Section Styling  ----- */
 
 #Contact {
 	border: 1px solid black;
