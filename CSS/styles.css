@@ -26,12 +26,12 @@ li {
 li a {
 	display: block;
 	text-align: center;
-	padding-right: 10%;
+	padding-right: 25%;
 	text-decoration: none;
 	color: #faf4f4;
 }
 
-li a:hover {
+.Nav-Links li a:hover {
 	background-color: #494848;
 }
 
