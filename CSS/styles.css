@@ -19,6 +19,10 @@ h1 {
 	padding: 10px 0 10px 10px;
 }
 
+p {
+	margin: 0;
+}
+
 #Section_Title {
 	background-color: #1e1e1e;
 	color: #faf4f4;
