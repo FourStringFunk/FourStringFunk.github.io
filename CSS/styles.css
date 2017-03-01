@@ -16,20 +16,17 @@ ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	overflow: hidden;
 }
 
 li {
-	float: right;
+	display: inline;
 }
 
 li a {
-	display: block;
 	text-align: center;
 	padding: 20px 20px 20px 20px;
 	text-decoration: none;
 	color: #faf4f4;
-	overflow: inherit;
 }
 
 li a:hover {
