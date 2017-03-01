@@ -5,7 +5,7 @@ html {
 
 #Nav {
 	border: 1px solid black;
-	color: #4b4c4d;
+	background-color: #4b4c4d;
 }
 
 #Home {
@@ -26,5 +26,5 @@ html {
 #Footer {
 	border: 1px solid black;
 	margin-top: 5px;
-	color: #4b4c4d;
+	background-color: #4b4c4d;
 }
