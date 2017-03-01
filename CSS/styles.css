@@ -1,3 +1,5 @@
+/* ----- Document Styling  ----- */
+
 html {
 	width: 95%;
 	margin: 0 auto;
@@ -11,6 +13,8 @@ footer {
 	background-color: #1e1e1e;
 	color: #faf4f4;
 }
+
+/* -----  Navigation Styling  ----- */
 
 ul {
 	list-style-type: none;
@@ -31,6 +35,16 @@ li a {
 li a:hover {
 	background-color: #494848;
 }
+
+/* ----- Home Image Styling ----- */
+
+img {
+	max-height: 100%;
+	max-width: 100%;
+	object-fit: contain;
+}
+
+/* ----- Section Styling  ----- */
 
 .Nav {
 	border: 1px solid black;
