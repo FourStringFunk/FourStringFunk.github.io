@@ -26,17 +26,17 @@ li {
 li a {
 	display: block;
 	text-align: center;
-	padding-left: 10px;
+	padding-right: 5%;
 	text-decoration: none;
 	color: #faf4f4;
 }
 
-li a:hover {
+li:hover {
 	background-color: #494848;
 }
 
 .Nav {
-	height: 5%;
+	height: 8%;
 	border: 1px solid black;
 	padding-top: 5px;
 	padding-bottom: 5px;
