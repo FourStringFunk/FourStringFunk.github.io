@@ -57,18 +57,6 @@ li a:hover {
 	text-align: right;
 }
 
-/* ----- Home Image Styling ----- */
-
-img {
-	max-width: 100%;
-	display: block;
-}
-
-#Landing_Image {
-	border: 1px solid black;
-	height: 100vh;
-}
-
 /* ----- Gallery Section Styling  ----- */
 
 #Gallery {
