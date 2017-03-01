@@ -31,7 +31,7 @@ li a {
 	color: #faf4f4;
 }
 
-li:hover {
+ul li:hover {
 	background-color: #494848;
 }
 
