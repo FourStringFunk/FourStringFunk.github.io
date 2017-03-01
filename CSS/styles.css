@@ -4,7 +4,11 @@ html {
 }
 
 #Nav {
+	height: 5%;
 	border: 1px solid black;
+	padding-top: 5px;
+	background-color: #1e1e1e;
+	color: #faf4f4;
 }
 
 #Nav ul {
@@ -27,6 +31,10 @@ html {
 }
 
 footer {
+	height: 5%;
 	border: 1px solid black;
 	margin-top: 5px;
+	padding-top: 5px;
+	background-color: #1e1e1e;
+	color: #faf4f4;
 }
