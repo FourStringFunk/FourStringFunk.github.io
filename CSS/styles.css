@@ -18,6 +18,21 @@ ul {
 	padding: 0;
 }
 
+li {
+	float: right;
+}
+
+li a  {
+	display: block;
+	text-align: center;
+	padding-left: 10px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: red;
+}
+
 .Nav {
 	height: 5%;
 	border: 1px solid black;
