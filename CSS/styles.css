@@ -5,15 +5,6 @@ html {
 	margin: 0 auto;
 }
 
-footer {
-	height: 50px;
-	border: 1px solid black;
-	margin-top: 5px;
-	padding-top: 5px;
-	background-color: #1e1e1e;
-	color: #faf4f4;
-}
-
 h1 {
 	margin: 0;
 	padding: 10px 0 10px 10px;
