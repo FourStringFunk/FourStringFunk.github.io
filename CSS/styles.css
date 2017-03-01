@@ -7,6 +7,10 @@ html {
 	border: 1px solid black;
 }
 
+#Nav ul {
+	list-style-type: none;
+}
+
 #Home {
 	border: 1px solid black;
 	margin-top: 5px;
