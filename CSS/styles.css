@@ -54,13 +54,12 @@ li a:hover {
 	padding: 20px 20px 20px 20px;
 	background-color: #1e1e1e;
 	text-align: right;
-	height: 12.5vh;
 }
 
 /* ----- Gallery Section Styling  ----- */
 
 #Gallery {
-	height: 75vh;
+	height: 100vh;
 }
 
 #Full_Gallery {
@@ -74,7 +73,6 @@ li a:hover {
 	float: right;
 	padding: 10px;
 	margin-right: 7px;
-	height: 12.5vh;
 }
 
 @keyframes slidy {
