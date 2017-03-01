@@ -67,7 +67,7 @@ img {
 #Home {
 	border: 1px solid black;
 	margin-top: 5px;
-	height: 100%
+	height: 100vh;
 }
 
 /* ----- Gallery Section Styling  ----- */
@@ -75,7 +75,7 @@ img {
 #Gallery {
 	border: 1px solid black;
 	margin-top: 5px;
-	height: 100%
+	height: 100vh;
 }
 
 #Full_Gallery {
@@ -120,6 +120,6 @@ div #Slider figure {
 #Contact {
 	border: 1px solid black;
 	margin-top: 5px;
-	height: 100%;
+	height: 100vh;
 }
 
