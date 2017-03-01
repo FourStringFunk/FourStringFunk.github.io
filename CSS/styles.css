@@ -3,6 +3,17 @@ html {
 	margin: 0 auto;
 }
 
-.home .gallery .contact {
+#Home {
 	border: 1px black;
+	margin-top: 5px;
+}
+
+#Gallery {
+	border: 1px black;
+	margin-top: 5px;
+}
+
+#Contact {
+	border: 1px black;
+	margin-top: 5px;
 }
