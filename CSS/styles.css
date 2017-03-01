@@ -72,6 +72,11 @@ img {
 	margin-top: 5px;
 }
 
+#Full_Gallery {
+	padding: 10px 0 10px 10px;
+	background-color: #1e1e1e;
+}
+
 @keyframes slidy {
 	0% { left: 0%; }
 	20% { left: 0%; }
@@ -85,9 +90,9 @@ img {
 }
 
 body { margin: 0; } 
-div #slider { overflow: hidden; }
-div #slider figure img { width: 20%; float: left; }
-div #slider figure { 
+div #Slider { overflow: hidden; }
+div #Slider figure img { width: 20%; float: left; }
+div #Slider figure { 
   position: relative;
   width: 500%;
   margin: 0;
@@ -95,12 +100,6 @@ div #slider figure {
   text-align: left;
   font-size: 0;
   animation: 30s slidy infinite; 
-}
-
-#GoTo_Button {
-	margin: 0;
-	padding: 10px 0 10px 10px;
-	background-color: #1e1e1e;
 }
 
 /* ----- Contact Section Styling  ----- */
