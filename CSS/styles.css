@@ -20,7 +20,7 @@ ul {
 }
 
 li {
-	display: flex;
+	display: block;
 	justify-content: space-between;
 }
 
