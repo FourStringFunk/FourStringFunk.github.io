@@ -12,6 +12,10 @@ html {
 	margin-top: 5px;
 }
 
+#Home_Image {
+	width: 100%;
+}
+
 #Gallery {
 	border: 1px solid black;
 	margin-top: 5px;
