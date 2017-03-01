@@ -27,13 +27,14 @@ li a  {
 }
 
 li a:hover {
-	background-color: red;
+	background-color: #494848;
 }
 
 .Nav {
 	height: 5%;
 	border: 1px solid black;
 	padding-top: 5px;
+	padding-bottom: 5px;
 	background-color: #1e1e1e;
 }
 
