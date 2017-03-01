@@ -20,7 +20,7 @@ ul {
 
 li {
 	display: inline;
-	align
+	align-content: right;
 }
 
 li a {
