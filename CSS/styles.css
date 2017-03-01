@@ -23,6 +23,10 @@ p {
 	margin: 0;
 }
 
+#Page_Layout {
+	height: 100vh;
+}
+
 #Section_Title {
 	background-color: #1e1e1e;
 	color: #faf4f4;
@@ -57,10 +61,6 @@ li a:hover {
 }
 
 /* ----- Gallery Section Styling  ----- */
-
-#Gallery {
-	height: 100vh;
-}
 
 #Full_Gallery {
 	padding: 10px 0 10px 10px;
