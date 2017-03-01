@@ -51,7 +51,6 @@ li a:hover {
 }
 
 .Nav {
-	border: 1px solid black;
 	padding: 20px 20px 20px 20px;
 	background-color: #1e1e1e;
 	text-align: right;
@@ -60,7 +59,6 @@ li a:hover {
 /* ----- Gallery Section Styling  ----- */
 
 #Gallery {
-	border: 1px solid black;
 	height: 100vh;
 }
 
