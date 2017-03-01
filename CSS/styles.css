@@ -3,33 +3,6 @@ html {
 	margin: 0 auto;
 }
 
-#Nav {
-	height: 5%;
-	border: 1px solid black;
-	padding-top: 5px;
-	background-color: #1e1e1e;
-	color: #faf4f4;
-}
-
-#Nav ul {
-	list-style-type: none;
-}
-
-#Home {
-	border: 1px solid black;
-	margin-top: 5px;
-}
-
-#Gallery {
-	border: 1px solid black;
-	margin-top: 5px;
-}
-
-#Contact {
-	border: 1px solid black;
-	margin-top: 5px;
-}
-
 footer {
 	height: 5%;
 	border: 1px solid black;
@@ -38,3 +11,31 @@ footer {
 	background-color: #1e1e1e;
 	color: #faf4f4;
 }
+
+ul {
+	list-style-type: none;
+}
+
+.Nav {
+	height: 5%;
+	border: 1px solid black;
+	padding-top: 5px;
+	background-color: #1e1e1e;
+	color: #faf4f4;
+}
+
+.Home {
+	border: 1px solid black;
+	margin-top: 5px;
+}
+
+.Gallery {
+	border: 1px solid black;
+	margin-top: 5px;
+}
+
+.Contact {
+	border: 1px solid black;
+	margin-top: 5px;
+}
+
