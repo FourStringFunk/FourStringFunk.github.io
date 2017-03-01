@@ -20,7 +20,8 @@ h1 {
 }
 
 #Section_Title {
-	background-color: #d2d0d0;
+	background-color: #1e1e1e;
+	color: #faf4f4;
 }
 
 /* -----  Navigation Styling  ----- */
@@ -84,9 +85,9 @@ img {
 }
 
 body { margin: 0; } 
-div#slider { overflow: hidden; }
-div#slider figure img { width: 20%; float: left; }
-div#slider figure { 
+div #slider { overflow: hidden; }
+div #slider figure img { width: 20%; float: left; }
+div #slider figure { 
   position: relative;
   width: 500%;
   margin: 0;
