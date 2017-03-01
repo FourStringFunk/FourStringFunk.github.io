@@ -97,6 +97,12 @@ div #slider figure {
   animation: 30s slidy infinite; 
 }
 
+#GoTo_Button {
+	margin: 0;
+	padding: 10px 0 10px 10px;
+	background-color: #1e1e1e;
+}
+
 /* ----- Contact Section Styling  ----- */
 
 #Contact {
