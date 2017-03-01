@@ -4,16 +4,16 @@ html {
 }
 
 #Home {
-	border: 1px black;
+	border: 1px solid black;
 	margin-top: 5px;
 }
 
 #Gallery {
-	border: 1px black;
+	border: 1px solid black;
 	margin-top: 5px;
 }
 
 #Contact {
-	border: 1px black;
+	border: 1px solid black;
 	margin-top: 5px;
 }
