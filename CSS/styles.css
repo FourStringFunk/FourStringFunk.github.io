@@ -3,6 +3,6 @@ html {
 	margin: 0 auto;
 }
 
-#home #gallery #contact {
+.home .gallery .contact {
 	border: 1px black;
 }
