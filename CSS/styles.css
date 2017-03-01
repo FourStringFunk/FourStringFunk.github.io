@@ -29,6 +29,7 @@ li a {
 	padding: 20px 20px 20px 20px;
 	text-decoration: none;
 	color: #faf4f4;
+	overflow: inherit;
 }
 
 li a:hover {
