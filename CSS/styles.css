@@ -68,6 +68,18 @@ li a:hover {
 
 /* ----- Slider Styling  ----- */
 
+@keyframes slidy {
+0% { left: 0vw; }
+20% { left: 0vw; }
+25% { left: -100vw; }
+45% { left: -100vw; }
+50% { left: -200vw; }
+70% { left: -200vw; }
+75% { left: -300vw; }
+95% { left: -300vw; }
+100% { left: -400vw; }
+}
+
 body { margin: 0; } 
 div#Slider { overflow: hidden; }
 div#Slider figure img { width: 20%; float: left; }
