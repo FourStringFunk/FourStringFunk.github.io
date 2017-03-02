@@ -15,7 +15,7 @@ p {
 }
 
 #Page_Layout {
-	height: 100vh;
+	height: 75vh;
 	background-color: #1e1e1e;
 }
 
@@ -84,18 +84,6 @@ div #Slider figure {
   text-align: left;
   font-size: 0;
   animation: 30s slidy infinite; 
-}
-
-#Slider {
-	height: auto;
-	width: auto;
-}
-
-#Slider img {
-	max-width: 100%;
-	max-height: 100%;
-	margin: auto;
-	display: block;
 }
 
 
