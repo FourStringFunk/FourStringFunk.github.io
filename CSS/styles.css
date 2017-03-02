@@ -67,6 +67,46 @@ li a:hover {
 }
 
 /* ----- Slider Styling  ----- */
+@include keyframes(fade-out) {
+	33% {
+		opacity: 1;
+	}
+
+	66% {
+		opacity: 0;
+	}
+}
+
+ul.kf-slider {
+	li {
+		height: 100%;
+		width: 100%;
+		top: 0;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: 50%
+		z-index: 0;
+		opacity: 0;
+
+		@include animation(fade-out 12s infinite both);
+		background-image: url(https://FourStringFunk.github.io/Images/Christopher_Harris/Chris_03.jpg);
+	}
+}
+
+li:nth-child(2) {
+	background-image: url(https://FourStringFunk.github.io/Images/Christopher_Harris/Dan_01.jpg);
+	@include animation-delay(3s);
+}
+
+li:nth-child(3) {
+	background-image: url(https://FourStringFunk.github.io/Images/Christopher_Harris/Dana_05.jpg);
+	@include animation-delay(6s);
+}
+
+li:nth-child(4) {
+	background-image: url(https://FourStringFunk.github.io/Images/Christopher_Harris/Andi_01.jpg);
+	@include animation-delay(9s);
+}
 
 /* -----  Old Code  ----- 
 
