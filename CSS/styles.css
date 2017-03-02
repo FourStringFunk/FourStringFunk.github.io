@@ -67,7 +67,9 @@ li a:hover {
 }
 
 /* ----- Slider Styling  ----- */
-
+.Slides {
+	width: 100%;
+}
 /* -----  Old Code  ----- 
 
 #Full_Gallery {
