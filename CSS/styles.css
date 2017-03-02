@@ -85,7 +85,7 @@ div#Slider { overflow: hidden; }
 div#Slider figure img { width: 20%; float: left; }
 div#Slider figure { 
   position: relative;
-  width: 400%;
+  width: 100vw;
   margin: 0;
   left: 0;
   text-align: left;
