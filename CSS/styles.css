@@ -15,7 +15,6 @@ p {
 }
 
 #Page_Layout {
-	height: 75vh;
 	background-color: #1e1e1e;
 }
 
@@ -24,6 +23,7 @@ footer {
 	position: fixed;
 	background-color: #1e1e1e;
 	color: #faf4f4;
+	border: 1px solid white;
 }
 
 /* -----  Navigation Styling  ----- */
