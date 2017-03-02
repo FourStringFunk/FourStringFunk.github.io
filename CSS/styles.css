@@ -66,9 +66,64 @@ li a:hover {
 	text-align: right;
 }
 
-/* ----- Gallery Section Styling  ----- */
+/* ----- Slider Styling  ----- */
 
+.Slider {
+	width: 800px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	overflow: hidden;
+}
 
+.Image_Holder {
+	width: 2400px;
+	height: 400px;
+	clear: both;
+	position: relative;
+
+	-webkit-transition: left 2s;
+	-moz-transition: left 2s;
+	-o-transition: left 2s;
+	transition: left 2s;
+}
+
+.Slider_Image {
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+}
+
+#Slider_Image_1:target ~ .Image_Holder {
+	left: 0px;
+}
+
+#Slider_Image_2:target ~ .Image_Holder {
+	left: -800px;
+}
+
+#Slider_Image_3:target ~ .Image_Holder {
+	left: -1600px;
+}
+
+#Slider_Image_4:target ~ .Image_Holder {
+	left: -2400px;
+}
+
+.Button_Holder {
+	position: relative;
+	top: -20px;
+}
+
+.Slider_Change {
+	display: inline-block;
+	height: 10px;
+	width: 10px;
+	border-radius: 5px;
+	background-color: blue;
+}
 /* -----  Old Code  ----- 
 
 #Full_Gallery {
