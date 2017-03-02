@@ -85,7 +85,6 @@ li a:hover {
 	100% { left: -400%; }
 }
 
-body { margin: 0; } 
 div #Slider { overflow: hidden; }
 div #Slider figure img { width: 20%; float: left; }
 div #Slider figure { 
