@@ -4,11 +4,7 @@ html {
 	margin: 0 auto;
 }
 
-header {
-	border: 1px solid black;
-}
-
-footer {
+#id {
 	border: 1px solid black;
 }
 
@@ -46,7 +42,6 @@ li a:hover {
 .Nav {
 	padding: 20px 20px 20px 20px;
 	background-color: #1e1e1e;
-	border: 1px solid white;
 	text-align: right;
 }
 
