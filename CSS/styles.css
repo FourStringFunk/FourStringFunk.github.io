@@ -81,19 +81,19 @@ li a:hover {
 }
 
 body { margin: 0; } 
-div#Slider { overflow: hidden; }
-div#Slider figure img { width: 20%; float: left; }
-div#Slider figure { 
+div#slider { overflow: hidden; }
+div#slider figure img { width: 20%; float: left; }
+div#slider figure { 
   position: relative;
   width: 500%;
   margin: 0;
   left: 0;
   text-align: left;
   font-size: 0;
-  animation: 45s slidy infinite; 
+  animation: 30s slidy infinite; 
 }
 
-}
+
 /* -----  Old Code  ----- 
 
 #Full_Gallery {
