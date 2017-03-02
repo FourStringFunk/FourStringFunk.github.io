@@ -78,8 +78,7 @@ li a:hover {
 }
 
 .Image_Holder {
-	width: 2400px;
-	height: 400px;
+	width: 100$;
 	clear: both;
 	position: relative;
 
